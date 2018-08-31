@@ -1,0 +1,2 @@
+# macConfig
+self macConfig
